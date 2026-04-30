@@ -1,0 +1,11 @@
+google-api-python-client
+pandas
+python-dotenv
+openpyxl
+scikit-learn
+joblib
+seaborn
+matplotlib
+fastapi
+pydantic
+uvicorn
