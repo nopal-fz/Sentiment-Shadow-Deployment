@@ -203,5 +203,5 @@ docker-compose up --build
 
 ## 👤 Author
 
-**Naufal F.N **
+**Naufal F.N**
 - GitHub: [@nopal-fz](https://github.com/nopal-fz)
