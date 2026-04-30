@@ -87,7 +87,7 @@ Membangun sistem ML end-to-end yang mampu:
 
 ### 1. 🔄 Data Ingestion
 - YouTube comment crawling via YouTube Data API v3
-- Pengambilan data multi-kategori: viral, gaming, podcast
+- Pengambilan data multi-kategori: gaming, podcast
 
 ### 2. 🧹 Preprocessing
 - Text cleaning (hapus emoji, URL, mention)
@@ -141,12 +141,6 @@ Podcast comments → Model v1 relatif akurat
 docker-compose up --build
 ```
 
-### CI/CD — GitHub Actions
-Pipeline otomatis mencakup:
-- ✅ Unit testing
-- ✅ Linting & code quality check
-- ✅ Auto build & push Docker image
-
 ---
 
 ## 📁 Project Structure
@@ -196,7 +190,7 @@ docker-compose up --build
 |---|---|
 | 🧠 ML / NLP | Sentiment analysis, TF-IDF, n-gram, slang handling |
 | ⚙️ Engineering | FastAPI, REST API design, logging system |
-| 🐳 DevOps | Docker, Docker Compose, GitHub Actions CI/CD |
+| 🐳 DevOps | Docker, Docker Compose |
 | 🔥 MLOps | Shadow deployment, model monitoring, data drift detection |
 
 ---
