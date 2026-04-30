@@ -30,10 +30,8 @@ Membangun sistem ML end-to-end yang mampu:
 
 | Kategori | Deskripsi | Keunggulan |
 |---|---|---|
-| 🔥 Viral Content | Video trending nasional | Slang paling baru muncul pertama di sini |
 | 🎮 Gaming Community | Konten gaming populer | Slang teknis & komunitas spesifik |
 | 🎙️ Podcast | Obrolan natural & santai | Bahasa sehari-hari yang autentik |
-| 💬 High-Engagement Videos | Video dengan komentar masif | Variasi bahasa yang tinggi |
 
 ### Struktur Dataset
 
