@@ -38,11 +38,9 @@ Membangun sistem ML end-to-end yang mampu:
 ```
     data/
     ├── old_data/       # Komentar dari video lama (simulasi model lama)
-    │   ├── viral/
     │   ├── gaming/
     │   └── podcast/
     └── new_data/       # Komentar terbaru (slang-aware)
-        ├── viral/
         ├── gaming/
         └── podcast/
 ```
